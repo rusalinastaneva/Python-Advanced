@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0cbfc176-1c55-4bf2-a60e-361879988e4a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1c5OdTQzjV242xjJ7fiykt7v993" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Python Fundamentals/demo" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.demo_triangle">
+    <configuration name="01. Calculate Logarithm" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Modules" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="D:\User\Desktop\PythonProjects\Python Advanced\Advanced\08. Modules\01. Calculate Logarithm.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="02. ASCII Art" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Modules" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02. ASCII Art.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="demo_triangle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Modules" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo_triangle.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.demo_triangle" />
+        <item itemvalue="Python.02. ASCII Art" />
+        <item itemvalue="Python.Lab_01. Calculate Logarithm" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0cbfc176-1c55-4bf2-a60e-361879988e4a" name="Default Changelist" comment="" />
+      <created>1589815074920</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589815074920</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589820039771">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1589820039771" />
+    <state x="463" y="122" key="FileChooserDialogImpl" timestamp="1589828631104">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="122" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1589828631104" />
+    <state width="1345" height="365" key="GridCell.Tab.0.bottom" timestamp="1589832859796">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="365" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589832859796" />
+    <state width="1345" height="365" key="GridCell.Tab.0.center" timestamp="1589832859796">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="365" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1589832859796" />
+    <state width="1345" height="365" key="GridCell.Tab.0.left" timestamp="1589832859796">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="365" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1589832859796" />
+    <state width="1345" height="365" key="GridCell.Tab.0.right" timestamp="1589832859796">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="365" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1589832859796" />
+    <state width="1345" height="365" key="GridCell.Tab.1.bottom" timestamp="1589832859796">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="365" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589832859796" />
+    <state width="1345" height="365" key="GridCell.Tab.1.center" timestamp="1589832859796">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="365" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1589832859796" />
+    <state width="1345" height="365" key="GridCell.Tab.1.left" timestamp="1589832859796">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="365" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1589832859796" />
+    <state width="1345" height="365" key="GridCell.Tab.1.right" timestamp="1589832859796">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="365" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1589832859796" />
+    <state x="186" y="9" key="SettingsEditor" timestamp="1589821193260">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="186" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1589821193260" />
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1589815906886">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1589815906886" />
+  </component>
+</project>

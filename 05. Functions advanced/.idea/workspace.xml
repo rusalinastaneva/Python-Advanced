@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5662021e-c9c3-47c4-8a47-16fed8dd8f05" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Functions advanced" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1blhrqo7BTKBUGgq7duAsiw4Fbb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Python.Unique names">
+    <configuration name="Multiplication" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Functions advanced" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Multiplication.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Sort numbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Functions advanced" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sort numbers.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Sort" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Functions advanced" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sort.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Sort_names" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Functions advanced" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sort_names.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unique names" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Functions advanced" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Unique names.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Unique names" />
+        <item itemvalue="Python.Sort" />
+        <item itemvalue="Python.Multiplication" />
+        <item itemvalue="Python.Sort numbers" />
+        <item itemvalue="Python.Sort_names" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5662021e-c9c3-47c4-8a47-16fed8dd8f05" name="Default Changelist" comment="" />
+      <created>1589212788717</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589212788717</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="602" height="466" key="DebuggerActiveHint" timestamp="1589223667745">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="602" height="466" key="DebuggerActiveHint/0.0.1366.728@0.0.1366.728" timestamp="1589223667745" />
+    <state width="1345" height="257" key="GridCell.Tab.0.bottom" timestamp="1589543536190">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="257" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589543536190" />
+    <state width="1345" height="257" key="GridCell.Tab.0.center" timestamp="1589543536190">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="257" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1589543536190" />
+    <state width="1345" height="257" key="GridCell.Tab.0.left" timestamp="1589543536190">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="257" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1589543536190" />
+    <state width="1345" height="257" key="GridCell.Tab.0.right" timestamp="1589543536190">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="257" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1589543536190" />
+    <state width="1345" height="257" key="GridCell.Tab.1.bottom" timestamp="1589543536190">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="257" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589543536190" />
+    <state width="1345" height="257" key="GridCell.Tab.1.center" timestamp="1589543536190">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="257" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1589543536190" />
+    <state width="1345" height="257" key="GridCell.Tab.1.left" timestamp="1589543536190">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="257" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1589543536190" />
+    <state width="1345" height="257" key="GridCell.Tab.1.right" timestamp="1589543536190">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="257" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1589543536190" />
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1589368740444">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1589368740444" />
+    <state x="424" y="12" key="refactoring.ChangeSignatureDialog" timestamp="1589227786936">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="424" y="12" key="refactoring.ChangeSignatureDialog/0.0.1366.728@0.0.1366.728" timestamp="1589227786936" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1589227051270">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1589227051270" />
+  </component>
+</project>
